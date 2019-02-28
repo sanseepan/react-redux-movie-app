@@ -1,0 +1,38 @@
+
+.Movie{
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    box-shadow: 2px 4px 2px 4px #BDBDBD;
+    background-color:  #F6F6F6;
+}
+
+.edit-button{
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+    
+
+}
+.edit-button:hover{
+    background-color: gray;
+    border: none;
+    color: white;
+}
+
+.delete-button{
+    color: red;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+
+.delete-button:hover{
+    background-color: gray;
+    color: white;
+    border:none;
+}
+
+.title-class{
+    color: rgb(17, 3, 3);
+    font-size: 18px;
+    font-weight: 500;
+}
